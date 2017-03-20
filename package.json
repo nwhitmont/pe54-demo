@@ -1,0 +1,15 @@
+{
+  "name": "apptentive-poker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Nils Whitmont <nils.whitmont@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.1.5",
+    "byline": "^5.0.0",
+    "poker-hands": "^1.0.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}

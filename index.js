@@ -68,7 +68,6 @@ function displayEndMessage(wins, done) {
   }
 }
 
-// run tasks in series
 async.waterfall([
   rankAllPokerHands,
   displayEndMessage
